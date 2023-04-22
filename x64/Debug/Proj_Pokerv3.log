@@ -1,0 +1,3 @@
+﻿  Gracz.cpp
+D:\Projekt cpp\Proj_Pokerv3\Gracz.cpp(242): warning C4715: "Gracz::RuchGracza”: niewszystkie ścieżki kodu zwracają wartość
+  Proj_Pokerv3.vcxproj -> D:\Projekt cpp\Proj_Pokerv3\x64\Debug\Proj_Pokerv3.exe
